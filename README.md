@@ -9,8 +9,9 @@ Password Change: Provides the option to change the password after verifying the 
 File Handling: Utilizes file I/O to store and retrieve user information.
 
 // To Follow this step for run this project.
-Compile the Code:= g++ security_system.cpp -o security_system
-Run the Program.
+Compile the Code:=
+1.g++ security_system.cpp -o security_system
+2.Run the Program.
 Follow on Screen Instructions.
 
 // Code Structure 
